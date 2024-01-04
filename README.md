@@ -29,7 +29,7 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here]
-<a href="https://www.linkedin.com/in/cafer-köşker-686207260/"></a>
+If you have any feedback, please reach out to me [<a href="https://www.linkedin.com/in/cafer-köşker-686207260/"></a>]
+
 
 
