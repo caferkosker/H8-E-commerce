@@ -9,9 +9,7 @@ A Ecommerce Website made with React.js Framework.
 
 
 ## Screenshots
-
-![Uploading Ekran Resmi 2024-01-04 20.28.13.png…]()
-
+![Uploading E-commerence.png…]()
 
 ## Tech Stack
 
