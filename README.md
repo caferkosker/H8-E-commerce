@@ -4,14 +4,13 @@ A Ecommerce Website made with React.js Framework.
 
 
 ## Features
-
 - Easy to integrate with Backend
 - Fully Responsive
 
 
 ## Screenshots
 
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
+![Uploading Ekran Resmi 2024-01-04 20.28.13.png…]()
 
 
 ## Tech Stack
