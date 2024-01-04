@@ -3,10 +3,6 @@
 A Ecommerce Website made with React.js Framework.
 
 
-## Demo
-
-https://e-commerce-pied-eight.vercel.app/
-
 ## Features
 
 - Easy to integrate with Backend
@@ -33,6 +29,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/selimcan-benzinci/)
+If you have any feedback, please reach out to me [here](https://www.linkedin.com/in/cafer-köşker-686207260/)
 
 
