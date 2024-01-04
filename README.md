@@ -9,7 +9,7 @@ A Ecommerce Website made with React.js Framework.
 
 
 ## Screenshots
-![Uploading E-commerence.png…]()
+<img src="E-commerence.png" alt="">
 
 ## Tech Stack
 
